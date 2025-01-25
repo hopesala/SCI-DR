@@ -1,0 +1,9 @@
+path: E:\Stanford_Cars_Dataset\sci-car-dataset-train-val # 注意修改自己NEU-DET数据集的路径
+train: images/train  # train images
+val: images/val  # val images
+#test: images/test  # test images
+
+# Classes
+
+names:
+  0: car
